@@ -5,6 +5,9 @@
 #
 #shell 学习 —— shell变量
 sida="luobotou"
+sida2="demo1.sh"
+echo $(cat ${sida2})
+echo "============"
 echo ${sida}
 echo $(ls /Users/feiyi)
 echo "---------------------------"
