@@ -14,7 +14,7 @@ printf "%-10s %-8s %-4s \n" 姓名 性别 收入
 printf "%-10s %-8s %-4.2f \n" sida women 91.1222
 printf "oooo输入-还不行oooo \n"
 
-
+#1
 
 
 
