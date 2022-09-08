@@ -1,3 +1,25 @@
 
 =
 demo0-note.md,b/8/b82888b72a816e8fba5b7bb6ef6884273da93ac6
+9
+	README.md,8/e/8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
+I
+test-from-niaoge/demo1.sh,8/9/899c80f5dfd54c715f7cf2b0ecdfc83f1e9841a8
+8
+demo5.sh,3/e/3efa323abe0e183c63bdde8815c554e9f316a3bb
+8
+demo4.sh,b/a/ba6bbbba5fe45e1d14e4b8c2a7c8c2295fc5a923
+8
+demo8.sh,7/7/7718f6f8b71b221555c590bf16c4ef4cb3a0a894
+8
+demo1.sh,c/b/cb2e3b765a357785c1bff2f6654e5b54e3fdc3d3
+8
+demo2.sh,8/1/8114320d2ae55921539946963529c1cb64891b4e
+8
+demo3.sh,8/e/8e99bd6eb23512c86c25bb469a13c7f7c726f54c
+8
+demo7.sh,2/1/2164f05c0db81b3db460571de42b98279556bda1
+8
+demo6.sh,a/c/acb0f156a904e88706f8ca072719011a40e1e685
+<
+demo2_str.sh,5/b/5bc994fde79e828736272643cbedbc6402630628
